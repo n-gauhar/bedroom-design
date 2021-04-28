@@ -1,5 +1,5 @@
 # bedroom-design
-This is an assignment done for my Computer Graphics lab using C++ and OpenGL. The bedroom was designed using cubes, pyramids and one 2D polygon.
+This is an assignment done for my Computer Graphics lab using C++ and OpenGL. The GL, GLU and GLUT libraries were used. The bedroom was designed using cubes, pyramids and one 2D polygon.
 The features of the bedroom - 
 * No lighting, no textures, no curve
 * A pendulum clock with a moving pendulum
